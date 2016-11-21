@@ -1,2 +1,2 @@
 # hello-world
-sensless project for git learning
+very sensless project for git learning

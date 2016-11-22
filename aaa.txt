@@ -1,1 +1,4 @@
 aaa internal text
+I was added to test commit --amend option
+
+why  successsive commit after commit is possible? What is it doing?
